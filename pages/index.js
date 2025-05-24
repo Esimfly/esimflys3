@@ -172,7 +172,7 @@ export default function Home() {
         <input
           value={tranNo}
           onChange={(e) => setTranNo(e.target.value)}
-          placeholder="Enter Transaction Number"
+          placeholder="2505..... EnterTranNo"
           style={{
             width: "100%",
             padding: 12,
