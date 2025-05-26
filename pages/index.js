@@ -98,7 +98,7 @@ export default function Home() {
           src="https://files.catbox.moe/s83b16.png"
           alt="Company Logo"
           style={{
-            width: "300px",
+            width: "150px",
             borderRadius: "10px",
             boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
             maxWidth: "100%",
