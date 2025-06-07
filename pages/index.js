@@ -172,7 +172,7 @@ export default function Home() {
         <input
           value={tranNo}
           onChange={(e) => setTranNo(e.target.value)}
-          placeholder="2505..... EnterTranNo"
+          placeholder="2505..... Enter TranNo"
           style={{
             width: "100%",
             padding: 12,
